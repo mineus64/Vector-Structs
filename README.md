@@ -8,3 +8,7 @@ Just import directly to the Assets folder or the folder of your choice. Use thes
 ## Vector2Double
 
 A standard Vector2, but with double-precision floats instead of single-precision floats.
+
+## Vector3Double
+
+As above, but as a Vector3 instead of a Vector2.
